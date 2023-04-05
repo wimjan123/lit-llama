@@ -4,7 +4,7 @@ Instruction-tuning with LLaMA-Adapter on the Alpaca dataset following the paper
 LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention
 https://arxiv.org/abs/2303.16199
 """
-import os
+import o
 import time
 
 import lightning as L
